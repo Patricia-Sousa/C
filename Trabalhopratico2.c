@@ -1,4 +1,4 @@
-//UFCD 783 | Programacao em C/C++ - ciclos e decis�es
+//UFCD 783 | Programacao em C/C++ - ciclos e decisoes
 //Trabalho pratico 2 realizado por:
 //Patricia Sousa
 
